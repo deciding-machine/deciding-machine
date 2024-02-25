@@ -1,2 +1,2 @@
-# Package name
-Package Name
+# Deciding Machine
+Deciding Machine
